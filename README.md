@@ -65,6 +65,7 @@ Comparer les performances (temps d'exécution, nombre de comparaisons/affectatio
 - `Bennabi_Baouche.pdf` : rapport PDF qui explique en le projet entier 
 - `README.md` : ce fichier
 - `LICENSE` : licence du projet (MIT)
+- `resultats_execution.txt` : résultats d'execution de chaque tri pour différentes taiiles de tableaux  
 
 ---
 
