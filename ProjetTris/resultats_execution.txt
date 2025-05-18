@@ -1,0 +1,36 @@
+********* Tri par max *********
+Taille du tableau : 2000, Temps : 17 ms, Nombre d'operations : 13360
+Taille du tableau : 10000, Temps : 145 ms, Nombre d'operations : 45358044
+Taille du tableau : 25000, Temps : 338 ms, Nombre d'operations : 143778397
+Taille du tableau : 50000, Temps : 2220 ms, Nombre d'operations : 931155429
+Taille du tableau : 75000, Temps : 3515 ms, Nombre d'operations : 1579529109
+Taille du tableau : 100000, Temps : 2661 ms, Nombre d'operations : 422924980
+Taille du tableau : 150000, Temps : 3999 ms, Nombre d'operations : 1776109794
+Taille du tableau : 200000, Temps : 5937 ms, Nombre d'operations : 2365241025
+Taille du tableau : 250000, Temps : 68246 ms, Nombre d'operations : 22076993250
+
+
+
+********* Tri rapide *********
+Taille du tableau : 2000, Temps : 1 ms, Nombre d'operations : 15399
+Taille du tableau : 10000, Temps : 5 ms, Nombre d'operations : 45594180
+Taille du tableau : 25000, Temps : 7 ms, Nombre d'operations : 144217860
+Taille du tableau : 50000, Temps : 16 ms, Nombre d'operations : 932432840
+Taille du tableau : 75000, Temps : 21 ms, Nombre d'operations : 1581221623
+Taille du tableau : 100000, Temps : 13 ms, Nombre d'operations : 423761315
+Taille du tableau : 150000, Temps : 22 ms, Nombre d'operations : 1777881625
+Taille du tableau : 200000, Temps : 25 ms, Nombre d'operations : 2367302352
+Taille du tableau : 250000, Temps : 80 ms, Nombre d'operations : 22084224705
+
+
+
+********* Tri par dénombrement *********
+Taille du tableau : 2000, Temps : 6 ms, Nombre d'operations : 4439
+Taille du tableau : 10000, Temps : 2 ms, Nombre d'operations : 48569
+Taille du tableau : 25000, Temps : 6 ms, Nombre d'operations : 100873
+Taille du tableau : 50000, Temps : 6 ms, Nombre d'operations : 229463
+Taille du tableau : 75000, Temps : 10 ms, Nombre d'operations : 318615
+Taille du tableau : 100000, Temps : 8 ms, Nombre d'operations : 287248
+Taille du tableau : 150000, Temps : 7 ms, Nombre d'operations : 478802
+Taille du tableau : 200000, Temps : 11 ms, Nombre d'operations : 606334
+Taille du tableau : 250000, Temps : 18 ms, Nombre d'operations : 1130388
