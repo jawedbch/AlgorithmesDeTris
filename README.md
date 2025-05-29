@@ -1,7 +1,8 @@
 # 📊 Algorithmes de Tri en Java
 
-Projet réalisé dans le cadre de l’UE d’algorithmique à l’Université du Havre (UFR Sciences et Techniques).  
-Ce projet porte sur l’analyse expérimentale et théorique de la complexité de trois algorithmes de tri implémentés en Java.
+Projet réalisé dans le cadre du TP **d’Algorithmique et Programmation 4** — Université du Havre (UFR Sciences et Techniques).  
+Ce projet porte sur l’analyse expérimentale et théorique de la complexité de trois algorithmes de tri implémentés en Java.    
+Encadré par : Véronique Jay
 
 ## 👨‍💻 Auteurs
 
